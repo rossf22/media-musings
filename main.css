@@ -1,0 +1,207 @@
+/*---------------------------------------
+	UCBA Media Musings
+---------------------------------------*/
+
+
+/* GLOBAL SETTINGS
+---------------------------------------*/
+
+body {
+  
+}
+	
+div.wrapper {
+  
+}
+
+img {
+  
+}
+
+
+/* HEADER
+---------------------------------------*/
+/* ⬇ Entire header area */
+header {
+  
+}
+
+/* ⬇ Contains both the h1 and h2 */
+header div.site-name { 
+  
+}
+
+header h1 {
+  
+}
+
+/* ⬇ The h1's link */
+header h1 a {
+  
+}
+
+header h2 {
+  
+}
+
+
+
+/* MAIN NAVIGATION 
+---------------------------------------*/	
+/* ⬇ Entire navigation area */
+nav.topnav { 
+  
+}
+
+nav.topnav ul {
+	list-style-type: none;
+	display: flex;
+	align-items: center;
+}
+
+nav.topnav li {
+  
+}
+
+/* ⬇ Links in the navigation bar */
+nav.topnav a {
+	padding: 1rem 2rem;
+	text-transform: uppercase;
+	display: block;
+	text-decoration: none;
+	color: black; /* ← you can change this */
+  transition: all 0.75s ease-in-out;
+}
+
+/* ⬇ Nav link hover effect */
+nav.topnav a:hover {
+	background-color: ghostwhite; /* ← you can change this */
+	border-radius: 2rem;
+}
+
+
+
+/* HOMEPAGE LAYOUT
+---------------------------------------*/	
+/* ⬇ Make this a grid container */
+main.homepage {
+  
+}
+
+article.blog {
+  
+}
+/* ⬇ Headline for the blog */
+article.blog h2 { 
+  
+}
+/* ⬇ Text in the blog */
+article.blog p { /* ← blog text */
+  
+}
+
+/* ⬇ This controls both asides */
+main.homepage aside { 
+  
+}
+
+/* ⬇ Recent aside */
+main.homepage aside.recent {
+  
+}
+
+/* ⬇ Links aside*/
+main.homepage aside.links {
+  
+}
+
+/* ⬇ Headlines at the top of the asides*/
+main.homepage aside h3 { 
+  
+}
+
+/* ⬇ Unordered list in asides */
+main.homepage aside ul { 
+  
+}
+
+/* ⬇ List items in the unordered list */
+main.homepage aside li { 
+  
+}
+
+/* ⬇ Link text in the asides */
+main.homepage aside li a { 
+  
+}
+
+/* ⬇ Aside hover effect */
+main.homepage aside li a:hover { 
+  
+}
+
+
+
+/* CAMPUS AREA
+---------------------------------------*/
+/* ⬇ Section that contains entire building area */
+section.campus	{
+  
+}	
+
+/* ⬇ This applies to each building section */
+section.campus section { /* ← all 6 of the building sections */
+  
+}
+
+/* ⬇ Name of each building */
+section.campus h3 {
+  
+}
+
+/* ⬇ Contains each building's image and caption */
+section.campus figure {
+  
+}
+
+/* ⬇ Picture of each building */
+section.campus img {
+	border: 5px solid ghostwhite; /* ← you can change this */
+	box-shadow: 0px 10px 13px -5px #626262; /* ← you can change this */
+}
+
+/* ⬇ Caption text under each building */
+section.campus figcaption {
+  
+}
+
+
+
+/* FOOTER
+---------------------------------------*/
+
+footer {
+  
+}
+
+footer small { 
+  
+}
+
+/* ⬇ The link in the footer */
+footer a {
+  
+}
+
+
+/* In a future assignment you'll create media queries below. */
+
+/* TABLET
+---------------------------------------*/
+
+
+
+
+/* PHONE
+---------------------------------------*/
+
