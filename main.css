@@ -258,7 +258,7 @@ footer a {
 @media (max-width: 768px) {
 
   div.wrapper {
-    max-width: 95%;
+    width: 95%;
   }
 
   img {
